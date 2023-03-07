@@ -1,0 +1,7 @@
+MOUNT C: C:\Users\MrDen\Desktop\Assembly
+C:
+ml name.asm
+Ten sam folder!!!!!!!!!
+MASM/ML name.asm
+MASM/LINK name.obj
+[enter] kilka razy
