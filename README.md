@@ -1,1 +1,3 @@
-# asm
+# Assembly
+
+Projects from Assembly course
